@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "你好，第一篇文章!"
-date:   2017-09-12 13:46:40
+title: "你好，第一篇文章!"
+date: 2017-09-12 13:46:40 +0000
 categories: jekyll update
 ---
 
